@@ -33,7 +33,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -62,4 +62,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
