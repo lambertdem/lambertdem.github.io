@@ -35,5 +35,5 @@ main:
   - title: "Miscellaneous"
     url: /miscellaneous/
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
