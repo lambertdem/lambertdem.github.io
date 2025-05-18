@@ -32,6 +32,11 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+
+Full CV
+======
+
+Available [here](files/CV_LDM.pdf).
   
 <!-- Skills
 ======
