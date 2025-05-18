@@ -37,6 +37,7 @@ Full CV
 ======
 
 Available [here](https://github.com/lambertdem.github.io/files/CV_LDM.pdf).
+Available [here](../files/CV_LDM.pdf).
   
 <!-- Skills
 ======
