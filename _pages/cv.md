@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Statistics, The University of Edinburgh, 2026 (expected)
-* Visiting Ph.D student, King Abdullah University of Science and Technology, February-June 2024 
+* Visiting Ph.D student, King Abdullah University of Science and Technology (KAUST), February-June 2024 
 * M.Sc. in Mathematics and Statistics, McGill University, 2022
 * B.Sc. in Mathematics and Computer Science, McGill University, 2020
 
