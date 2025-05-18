@@ -36,7 +36,7 @@ Work experience
 Full CV
 ======
 
-Available [here](files/CV_LDM.pdf).
+Available [here](https://github.com/lambertdem.github.io/files/CV_LDM.pdf).
   
 <!-- Skills
 ======
