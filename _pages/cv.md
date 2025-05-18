@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, The University of Edinburgh, 2026 (expected)
+* Visiting Ph.D student, King Abdullah University of Science and Technology, February-June 2024 
+* M.Sc. in Mathematics and Statistics, McGill University, 2022
+* B.Sc. in Mathematics and Computer Science, McGill University, 2020
 
 Work experience
 ======
