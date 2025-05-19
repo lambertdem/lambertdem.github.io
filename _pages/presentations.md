@@ -25,5 +25,5 @@ redirect_from:
 
 ### Posters
 
-  * CfS Annual Conference 2024: *Multivariate radial Pareto distributions: a geometric approach to the statistical modelling of multivariate extremes*. (Jun. 2024)
+  * University of Edinburgh Centre for Statistics Annual Conference 2024: *Multivariate radial Pareto distributions: a geometric approach to the statistical modelling of multivariate extremes*. (Jun. 2024)
   * 13th International Conference on Extreme Value Analysis: *Bayesian approach to geometric inference for multivariate extremes*. (Jun. 2023)
