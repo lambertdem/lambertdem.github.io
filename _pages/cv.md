@@ -11,9 +11,9 @@ redirect_from:
 
 Available [here](../files/CV_LDM.pdf).
 
-## Short CV
+# Short CV
 
-### Education
+## Education
 * PhD in Statistics, School of Mathematics, The University of Edinburgh, 2026 (expected)
   * Supervisors: Ioannis Papastathopoulos, Gabriele C. Hegerl
 * Visiting PhD student, King Abdullah University of Science and Technology (KAUST), February-June 2024 
@@ -22,13 +22,13 @@ Available [here](../files/CV_LDM.pdf).
   * Supervisor: Christian Genest
 * BSc in Mathematics and Computer Science, McGill University, 2020
 
-### Work experience
+## Work experience
 
-#### Hydro-Québec Research Institute (IREQ), Statistician intern
+### Hydro-Québec Research Institute (IREQ), Statistician intern
 
 * Research partnership to develop methods for the statistical post-treatment of weather forecasts, specifically of extreme meteorological events. (Jan. 2022 – Aug. 2022)
 
-#### Teaching Assistantships
+### Teaching Assistantships
 
 * University of Edinburgh
   * MATH10064 – Multivariate Data Analysis (Jan. 2025 – May. 2025)
