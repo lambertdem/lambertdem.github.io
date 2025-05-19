@@ -5,7 +5,7 @@ category: thesis
 permalink: /publication/Rondurie
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2020-08-01
-venue: ' McGill University (Canada)'
+venue: 'McGill University (Canada)'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.proquest.com/dissertations-theses/spatial-gamma-model-statistical-postprocessing/docview/2799717686/se-2?accountid=10673'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
