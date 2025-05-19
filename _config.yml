@@ -88,6 +88,8 @@ publication_category:
     title: 'Conference Papers'
   vulgarisation:
     title: 'Science communication'
+  thesis:
+    title: 'Thesis'
    
 
 # Site Settings
