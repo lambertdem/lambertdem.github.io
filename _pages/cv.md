@@ -12,15 +12,18 @@ redirect_from:
 Education
 ======
 * PhD in Statistics, School of Mathematics, The University of Edinburgh, 2026 (expected)
- * Supervisors: Ioannis Papastathopoulos, Gabriele C. Hegerl
+  * Supervisors: Ioannis Papastathopoulos, Gabriele C. Hegerl
 * Visiting PhD student, King Abdullah University of Science and Technology (KAUST), February-June 2024 
- * Supervisor: Raphaël Huser
+  * Supervisor: Raphaël Huser
 * MSc in Mathematics and Statistics, McGill University, 2022
- * Supervisor: Christian Genest
+  * Supervisor: Christian Genest
 * BSc in Mathematics and Computer Science, McGill University, 2020
 
 Work experience
 ======
+
+Hydro-Québec, Statistician intern
+---
 
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
