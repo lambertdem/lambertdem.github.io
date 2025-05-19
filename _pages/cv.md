@@ -25,30 +25,30 @@ Work experience
 Hydro-Québec, Statistician intern
 ---
 
-* Research partnership to develop methods for the statistical post-treatment of weather forecasts, specifically of extreme meteorological events.
+* Research partnership to develop methods for the statistical post-treatment of weather forecasts, specifically of extreme meteorological events. (Jan. 2022 – Aug. 2022)
 
 Teaching Assistantships
 ---
 * University of Edinburgh
-  * MATH10064 – Multivariate Data Analysis Jan. 2025 – May. 2025
-  * MATH10093 – Statistical Computing Jan. 2025 – May. 2025
-  * MATH10096 – Applied Statistics Jan. 2025 – May. 2025
-  * MATH11176 – Extended Statistical Programming Sep. 2023 – Dec. 2023
-  * MATH11187 – Generalised Regression Models Sep. 2023 – Dec. 2023
-  * MATH08066 – Probability Sep. 2023 – Dec. 2023
-  * MATH10093 – Statistical Computing Jan. 2023 – May 2023
-  * MATH08051 – Statistics Jan. 2023 – May 2023
+  * MATH10064 – Multivariate Data Analysis (Jan. 2025 – May. 2025)
+  * MATH10093 – Statistical Computing (Jan. 2025 – May. 2025)
+  * MATH10096 – Applied Statistics (Jan. 2025 – May. 2025)
+  * MATH11176 – Extended Statistical Programming (Sep. 2023 – Dec. 2023)
+  * MATH11187 – Generalised Regression Models (Sep. 2023 – Dec. 2023)
+  * MATH08066 – Probability (Sep. 2023 – Dec. 2023)
+  * MATH10093 – Statistical Computing (Jan. 2023 – May 2023)
+  * MATH08051 – Statistics (Jan. 2023 – May 2023)
 
 * McGill University
-  * MATH 324 – Statistics Jan. 2022 – May 2022
-  * MATH 323 – Probability Sep. 2021 – Dec. 2021
-  * MATH 203 – Principles of Statistics Jan. 2021 – May 2021
+  * MATH 324 – Statistics (Jan. 2022 – May 2022)
+  * MATH 323 – Probability (Sep. 2021 – Dec. 2021)
+  * MATH 203 – Principles of Statistics (Jan. 2021 – May 2021)
   * Statistics Helpdesk
     * Providing help to undergraduate students in Statistics and Probability. Theoretical and programming guidance for courses in the range MATH 2XX - 5XX.
   * Undergraduate Project Guidance
     * Guidance of three students towards the completion of an undergraduate project in extreme value theory.
-      * MATH 470 Jan. 2022 – May 2022
-      * MATH 410 Jan. 2021 – May 2021 and Sep. 2021 – Dec. 2021
+      * MATH 470 (Jan. 2022 – May 2022)
+      * MATH 410 (Jan. 2021 – May 2021 and Sep. 2021 – Dec. 2021)
 
 
 
