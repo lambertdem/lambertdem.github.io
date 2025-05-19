@@ -27,7 +27,7 @@ Education
 Work experience
 ======
 
-Hydro-Québec, Statistician intern
+Hydro-Québec Research Institute (IREQ), Statistician intern
 ---
 
 * Research partnership to develop methods for the statistical post-treatment of weather forecasts, specifically of extreme meteorological events. (Jan. 2022 – Aug. 2022)
