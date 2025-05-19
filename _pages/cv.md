@@ -40,9 +40,16 @@ Teaching Assistantships
   * MATH08051 – Statistics Jan. 2023 – May 2023
 
 * McGill University
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * MATH 324 – Statistics Jan. 2022 – May 2022
+  * MATH 323 – Probability Sep. 2021 – Dec. 2021
+  * MATH 203 – Principles of Statistics Jan. 2021 – May 2021
+  * Statistics Helpdesk
+    * Providing help to undergraduate students in Statistics and Probability. Theoretical and programming guidance for courses in the range MATH 2XX - 5XX.
+  * Undergraduate Project Guidance
+    * Guidance of three students towards the completion of an undergraduate project in extreme value theory.
+      * MATH 470 Jan. 2022 – May 2022
+      * MATH 410 Jan. 2021 – May 2021 and Sep. 2021 – Dec. 2021
+
 
 
 
