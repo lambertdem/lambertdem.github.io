@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short CV"
+title: "Full CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Available [here](../files/CV_LDM.pdf).
+
+Short CV
+======
 
 Education
 ======
@@ -50,12 +55,6 @@ Teaching Assistantships
       * MATH 470 (Jan. 2022 – May 2022)
       * MATH 410 (Jan. 2021 – May 2021 and Sep. 2021 – Dec. 2021)
 
-
-
-
-Full CV
-======
-Available [here](../files/CV_LDM.pdf).
 
 <!-- Skills
 ======
