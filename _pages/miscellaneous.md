@@ -35,4 +35,5 @@ redirect_from:
 * [The unbearable lightness of being](https://en.wikipedia.org/wiki/The_Unbearable_Lightness_of_Being), Milan Kundera
 * [One hundred years of solitude](https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude), Gabriel García Márquez
 * [The sound of things falling](https://en.wikipedia.org/wiki/The_Sound_of_Things_Falling), Juan Gabriel Vásquez
+* [Crime and Punishment](https://en.wikipedia.org/wiki/Crime_and_Punishment), Fyodor Dostoevsky
 
