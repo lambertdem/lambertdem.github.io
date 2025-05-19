@@ -1,7 +1,7 @@
 ---
 title: "À la recherche de la rondurie"
 collection: publications
-category: vulgarisation
+category: other
 permalink: /publication/Rondurie
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2020-01-01
