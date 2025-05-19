@@ -25,11 +25,10 @@ Work experience
 Hydro-Québec, Statistician intern
 ---
 
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research partnership to develop methods for the statistical post-treatment of weather forecasts, specifically of extreme meteorological events.
 
+Teaching Assistantships
+---
 * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
@@ -39,9 +38,6 @@ Hydro-Québec, Statistician intern
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-
-Teaching Assistantships
----
 
 
 
