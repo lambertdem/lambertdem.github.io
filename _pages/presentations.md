@@ -20,4 +20,10 @@ redirect_from:
 
 ### Talks
 
+  * 14th International Conference on Extreme Value Analysis: Generative modelling of multivariate geometric extremes using normalising flows (Jun. 2025)
+  * 15th International Meeting on Statistical Climatology: Flood risk modelling using geometric extreme value theory. (Jun. 2024)
+
 ### Posters
+
+  * CfS Annual Conference 2024: Multivariate radial Pareto distributions: a geometric approach to the statistical modelling of multivariate extremes. (Jun. 2024)
+  * 13th International Conference on Extreme Value Analysis: Bayesian approach to geometric inference for multivariate extremes. (Jun. 2023)
