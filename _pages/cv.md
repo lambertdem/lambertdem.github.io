@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* PhD in Statistics, The University of Edinburgh, 2026 (expected)
+* PhD in Statistics, School of Mathematics, The University of Edinburgh, 2026 (expected)
 * Visiting PhD student, King Abdullah University of Science and Technology (KAUST), February-June 2024 
 * MSc in Mathematics and Statistics, McGill University, 2022
 * BSc in Mathematics and Computer Science, McGill University, 2020
 
 Work experience
 ======
+
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -32,6 +33,11 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+
+Teaching Assistantships
+------
+
+
 
 Full CV
 ======
