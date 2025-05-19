@@ -86,6 +86,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  vulgarisation:
+    title: 'Science communication'
    
 
 # Site Settings
