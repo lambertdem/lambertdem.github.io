@@ -29,12 +29,17 @@ Hydro-Québec, Statistician intern
 
 Teaching Assistantships
 ---
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* University of Edinburgh
+  * MATH10064 – Multivariate Data Analysis Jan. 2025 – May. 2025
+  * MATH10093 – Statistical Computing Jan. 2025 – May. 2025
+  * MATH10096 – Applied Statistics Jan. 2025 – May. 2025
+  * MATH11176 – Extended Statistical Programming Sep. 2023 – Dec. 2023
+  * MATH11187 – Generalised Regression Models Sep. 2023 – Dec. 2023
+  * MATH08066 – Probability Sep. 2023 – Dec. 2023
+  * MATH10093 – Statistical Computing Jan. 2023 – May 2023
+  * MATH08051 – Statistics Jan. 2023 – May 2023
 
-* Summer 2015: Research Assistant
+* McGill University
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
