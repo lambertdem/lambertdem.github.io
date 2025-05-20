@@ -6,7 +6,7 @@ redirect_from:
   - /software.html
 ---
 
-## [geometricExtremesNF](https://github.com/lambertdem/geometricExtremesNF) R package
+## [geometricExtremesNF](https://github.com/lambertdem/geometricExtremesNF) Python code
 
 A generative modelling approach for multivariate extremes based on:
 
