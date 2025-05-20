@@ -8,8 +8,16 @@ redirect_from:
 
 ## [geometricExtremes](https://github.com/ipapasta/geometricExtremes) R package
 
-A flexible Bayesian approach to extreme value analysis based on:
+A generative modelling of multivariate extremes approach:
+
+De Monte, L., Huser, R., Papastathopoulos, I., and Richards, J. (2025) 'Generative modelling of multivariate geometric extremes using normalising flows', [arXiv](https://arxiv.org/abs/2505.02957) preprint.
+
+<p align="center"><img src="/images/T_S_to_C.png" width="70%" /> </p>
+
+## [geometricExtremes](https://github.com/ipapasta/geometricExtremes) R package
+
+A Bayesian approach to extreme value analysis based on:
 
 Papastathopoulos, I., De Monte, L., Campbell, R. and Rue, H. (2023) 'Statistical inference for radial generalized Pareto distributions and return sets in geometric extremes', [arXiv](https://arxiv.org/abs/2310.06130) preprint.
 
-<p align="center"><img src="/images/GaussCop_LapMargins.gif" width="60%" height="60%"/> </p>
+<p align="center"><img src="/images/GaussCop_LapMargins.gif" width="70%" height="70%"/> </p>
