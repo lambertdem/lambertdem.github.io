@@ -12,7 +12,7 @@ A generative modelling of multivariate extremes approach:
 
 De Monte, L., Huser, R., Papastathopoulos, I., and Richards, J. (2025) 'Generative modelling of multivariate geometric extremes using normalising flows', [arXiv](https://arxiv.org/abs/2505.02957) preprint.
 
-<p align="center"><img src="/images/T_S_to_C.png" width="70%" /> </p>
+<p align="center"><img src="/images/T_S_to_C.png" width="80%" /> </p>
 
 ## [geometricExtremes](https://github.com/ipapasta/geometricExtremes) R package
 
