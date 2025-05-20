@@ -8,7 +8,7 @@ redirect_from:
 
 ## [geometricExtremesNF](https://github.com/lambertdem/geometricExtremesNF) R package
 
-A generative modelling of multivariate extremes approach:
+A generative modelling approach for multivariate extremes based on:
 
 De Monte, L., Huser, R., Papastathopoulos, I., and Richards, J. (2025) 'Generative modelling of multivariate geometric extremes using normalising flows', [arXiv](https://arxiv.org/abs/2505.02957) preprint.
 
