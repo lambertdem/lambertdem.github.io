@@ -7,7 +7,7 @@ permalink: /publication/Rondurie
 date: 2020-08-01
 venue: 'McGill University (Canada)'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://www.proquest.com/dissertations-theses/spatial-gamma-model-statistical-postprocessing/docview/2799717686/se-2?accountid=10673'
+paperurl: 'https://scholar.google.com/scholar?oi=bibs&cluster=17114268495766984235&btnI=1&hl=fr'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
