@@ -16,7 +16,7 @@ Available [here](../files/CV_LDM.pdf).
 ## Education
 * PhD in Statistics, School of Mathematics, The University of Edinburgh, 2026 (expected)
   * Supervisors: Ioannis Papastathopoulos, Gabriele C. Hegerl
-* Visiting PhD student, King Abdullah University of Science and Technology (KAUST), February-June 2024 
+* Visiting PhD student, King Abdullah University of Science and Technology (KAUST), February 2023, February-June 2024, November 2024 
   * Supervisor: Raphaël Huser
 * MSc in Mathematics and Statistics, McGill University, 2022
   * Supervisor: Christian Genest
