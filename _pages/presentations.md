@@ -13,7 +13,7 @@ redirect_from:
   * 18th International Conference on Computational and Methodological Statistics ([CMStatistics](https://www.cmstatistics.org/CFECMStatistics2024/)), London: *Geometric extreme value theory – A normalising flows approach*. (Dec. 2024)
   * 17th International Conference on Computational and Methodological Statistics ([CMStatistics](https://www.cmstatistics.org/CMStatistics2023/)), Berlin: *Bayesian inference for radially-stable distributions*. (Dec. 2023)
   * BIRS-IMAG Modern Statistical and Machine Learning Approaches for High-Dimensional Compound Spatial Extremes (short presentation): *Geometric inference for Husler–Reiss random vectors*. (May 2023)
-  * Séminaires de sciences de la décision HEC Montréal: *Multivariate extremes – A geometric Bayesian inference approach*. (Sep. 2023)
+  * [Séminaires de sciences de la décision HEC Montréal](https://hecsciencesdecision.github.io/presentations/archives/2023-09-29.html): *Multivariate extremes – A geometric Bayesian inference approach*. (Sep. 2023)
 
 
 ## Contributed 
