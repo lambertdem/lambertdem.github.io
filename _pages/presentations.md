@@ -12,7 +12,7 @@ redirect_from:
   * [Statistics seminar](https://www.exeter.ac.uk/events/details/index.php?event=14776), University of Exeter: *Geometric extreme value theory – A normalising flows approach*. (Feb. 2025)
   * 18th International Conference on Computational and Methodological Statistics ([CMStatistics](https://www.cmstatistics.org/CFECMStatistics2024/)), London: *Geometric extreme value theory – A normalising flows approach*. (Dec. 2024)
   * 17th International Conference on Computational and Methodological Statistics ([CMStatistics](https://www.cmstatistics.org/CMStatistics2023/)), Berlin: *Bayesian inference for radially-stable distributions*. (Dec. 2023)
-  * BIRS-IMAG Modern Statistical and Machine Learning Approaches for High-Dimensional Compound Spatial Extremes (short presentation): *Geometric inference for Husler–Reiss random vectors*. (May 2023)
+  * [BIRS-IMAG workshop](https://wpd.ugr.es/~imag/events/event/23w6006/) on Modern Statistical and Machine Learning Approaches for High-Dimensional Compound Spatial Extremes (short presentation): *Geometric inference for Husler–Reiss random vectors*. (May 2023)
   * [Séminaires de sciences de la décision HEC Montréal](https://hecsciencesdecision.github.io/presentations/archives/2023-09-29.html): *Multivariate extremes – A geometric Bayesian inference approach*. (Sep. 2023)
 
 
@@ -25,5 +25,5 @@ redirect_from:
 
 ### Posters
 
-  * University of Edinburgh Centre for Statistics Annual Conference 2024: *Multivariate radial Pareto distributions: a geometric approach to the statistical modelling of multivariate extremes*. (Jun. 2024)
+  * University of Edinburgh [Centre for Statistics Annual Conference 2024](https://centreforstatistics.maths.ed.ac.uk/events/the-cfs-annual-conference/cfs-annual-conference-2024): *Multivariate radial Pareto distributions: a geometric approach to the statistical modelling of multivariate extremes*. (Jun. 2024)
   * [13th International Conference on Extreme Value Analysis](https://dec.unibocconi.eu/research/extreme-value-analysis-eva-2023): *Bayesian approach to geometric inference for multivariate extremes*. (Jun. 2023)
