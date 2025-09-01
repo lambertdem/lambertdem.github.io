@@ -29,7 +29,7 @@ redirect_from:
 
 ### English fiction
 
-* [A fine balance](https://en.wikipedia.org/wiki/A_Fine_Balance), Rohinton  Mistry
+* [A fine balance](https://en.wikipedia.org/wiki/A_Fine_Balance), Rohinton Mistry
 * [The bluest eye](https://en.wikipedia.org/wiki/The_Bluest_Eye), Toni Morrison
 
 ### Fiction from other languages
