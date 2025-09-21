@@ -17,6 +17,7 @@ redirect_from:
 * [Pedagogy of the Oppressed](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed), Paulo Freire 
 * Technofeudalism: What Killed Capitalism, [Yanis Varoufakis](https://en.wikipedia.org/wiki/Yanis_Varoufakis#Books_in_English)
 * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction), Cathy O'Neil
+* [Drums in the distance](https://joemulhall.co.uk/drums-in-the-distance-journeys-into-the-global-far-right/), Joe Mulhall
 
 ### French fiction
 
