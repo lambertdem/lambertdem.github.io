@@ -26,7 +26,8 @@ redirect_from:
 * [Léon l'Africain](https://fr.wikipedia.org/wiki/L%C3%A9on_l%27Africain_(roman)), Amin Maalouf
 * [Au revoir là-haut](https://fr.wikipedia.org/wiki/Au_revoir_l%C3%A0-haut), Pierre Lemaitre
 * [Houris](https://fr.wikipedia.org/wiki/Houris_(roman)), Kamel Daoud
-* [Putain](https://fr.wikipedia.org/wiki/Putain_(r%C3%A9cit)), 	Nelly Arcan
+* [Putain](https://fr.wikipedia.org/wiki/Putain_(r%C3%A9cit)),	Nelly Arcan
+* [L'énigme du retour](https://fr.wikipedia.org/wiki/L%27%C3%89nigme_du_retour), Dany Laferrière
 
 ### English fiction
 
