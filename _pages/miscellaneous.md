@@ -43,4 +43,4 @@ redirect_from:
 
 ## My friend [Joe](https://sites.google.com/view/jmalbon/home)
 
-|![](./images/Joe.png)|
+![](./images/Joe.png)
