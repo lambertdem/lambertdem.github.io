@@ -43,4 +43,4 @@ redirect_from:
 
 ## My friend [Joe](https://sites.google.com/view/jmalbon/home)
 
-<p align="center"><img src="/images/Joe.png" width="80%" /> </p>
+<p align="left"><img src="/images/Joe.png" width="40%" /> </p>
