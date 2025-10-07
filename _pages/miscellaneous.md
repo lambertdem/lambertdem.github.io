@@ -41,6 +41,6 @@ redirect_from:
 * [The sound of things falling](https://en.wikipedia.org/wiki/The_Sound_of_Things_Falling), Juan Gabriel Vásquez
 * [Crime and Punishment](https://en.wikipedia.org/wiki/Crime_and_Punishment), Fyodor Dostoevsky
 
-## My friend [Joe](https://sites.google.com/view/jmalbon/home)
+<!-- ## My friend [Joe](https://sites.google.com/view/jmalbon/home)
 
-<p align="left"><img src="/images/Joe.png" width="40%" /> </p>
+<p align="left"><img src="/images/Joe.png" width="40%" /> </p> -->
