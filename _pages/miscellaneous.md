@@ -1,9 +1,9 @@
 ---
-permalink: /miscellaneous/
+permalink: /miscellanea/
 title: "Miscellanea"
 author_profile: true
 redirect_from: 
-  - /miscellaneous.html
+  - /miscellanea.html
 ---
 
 ## Favourite reads
