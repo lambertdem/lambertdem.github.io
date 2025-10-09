@@ -27,7 +27,7 @@ author:
   pronouns         : "he/him"  
   bio              : "PhD student in Statistics"
   location         : "Edinburgh, United Kingdom"
-  employer         : "University of Edinburgh"
+  employer         : <a href="https://maths.ed.ac.uk/">University of Edinburgh</a> 
   uri              : # URL
   email            : "l.demonte@ed.ac.uk" 
 
