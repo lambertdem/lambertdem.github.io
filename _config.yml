@@ -20,6 +20,7 @@ repository               : "lambertdem.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+#<a href="https://maths.ed.ac.uk/">University of Edinburgh</a> 
 author:
   # Biographic information
   avatar           : "LDM.jpg"
@@ -27,7 +28,7 @@ author:
   pronouns         : "he/him"  
   bio              : "PhD student in Statistics"
   location         : "Edinburgh, United Kingdom"
-  employer         : <a href="https://maths.ed.ac.uk/">University of Edinburgh</a> 
+  employer         : "[University of Edinburgh](https://maths.ed.ac.uk/)" 
   uri              : # URL
   email            : "l.demonte@ed.ac.uk" 
 
