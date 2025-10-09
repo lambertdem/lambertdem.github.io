@@ -1,6 +1,6 @@
 ---
 permalink: /miscellaneous/
-title: "Miscellaneous"
+title: "Miscellanea"
 author_profile: true
 redirect_from: 
   - /miscellaneous.html
