@@ -31,6 +31,8 @@ Available [here](../files/CV_LDM.pdf).
 ### Teaching Assistantships
 
 * University of Edinburgh
+  * MATH11199 -- Python Programming (Sep. 2025 – Dec. 2025)
+  * MATH08066 -- Probability (Sep. 2025 – Dec. 2025)
   * MATH10064 – Multivariate Data Analysis (Jan. 2025 – May. 2025)
   * MATH10093 – Statistical Computing (Jan. 2025 – May. 2025)
   * MATH10096 – Applied Statistics (Jan. 2025 – May. 2025)
