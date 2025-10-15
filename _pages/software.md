@@ -21,3 +21,12 @@ A Bayesian approach to extreme value analysis based on:
 Papastathopoulos, I., De Monte, L., Campbell, R. and Rue, H. (2023) 'Statistical inference for radial generalized Pareto distributions and return sets in geometric extremes', [arXiv](https://arxiv.org/abs/2310.06130) preprint.
 
 <p align="center"><img src="/images/GaussCop_LapMargins.gif" width="70%" height="70%"/> </p>
+
+## [TSExtremes](https://github.com/lambertdem/Ch14_TSExtremesF) R code
+
+A conditional extremes approach to model the extremes of stationary time series:
+
+G. Auld, L. De Monte, and I. Papastathopoulos. Time series in extremes. In M. de Carvalho, R. Huser,
+P. Naveau, and B. J. Reich, editors, Handbook on Statistics of Extremes. Chapman & Hall, 2026. 
+
+<p align="center"><img src="/images/HSE_CH14_Data.png" width="80%" /> </p>
