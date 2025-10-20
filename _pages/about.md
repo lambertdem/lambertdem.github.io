@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm currently a PhD student in the [School of Mathematics](https://maths.ed.ac.uk/) at The University of Edinburgh. I study extreme value theory&mdash;in particular the statistics of extreme or rare events&mdash;under the supervision of Dr Ioannis Papastathopoulos and aim to apply theory and modelling advances to environmental extremes with my co-supervisor, Prof. Gabriele C. Hegerl. 
+I'm currently a PhD student in the [School of Mathematics](https://maths.ed.ac.uk/) at The University of Edinburgh. I study extreme value theory&mdash;in particular the statistics of extreme or rare events&mdash;under the supervision of Dr Ioannis Papastathopoulos and aim to apply theory and modelling advances to environmental extremes with my co-supervisor, Prof. Gabriele C. Hegerl. 
 
 Before my Scottish adventures, I completed undergraduate studies in mathematics and computer science and master studies in mathematics and statistics at McGill University under the supervision of Prof. Christian Genest. Below are some of the places mathematics took me:
 
