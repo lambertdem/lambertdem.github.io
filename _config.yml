@@ -31,10 +31,6 @@ author:
   employer         : "University of Edinburgh"
   uri              : # URL
   email            : "l.demonte@ed.ac.uk" 
-  links:
-    - label: "+44 7865 017268"   # or "Phone"
-      icon: fas fa-phone
-      url: "tel:+447865017268"
 
   # Academic websites
   academia         : # URL
