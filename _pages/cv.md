@@ -22,7 +22,7 @@ Available [here](../files/CV_LDM.pdf).
   * Supervisor: Christian Genest
 * BSc in Mathematics and Computer Science, McGill University (2017-2020)
 
-## Work experience
+## Professional activities
 
 ### Hydro-Québec Research Institute (IREQ), Statistician intern
 
@@ -31,8 +31,10 @@ Available [here](../files/CV_LDM.pdf).
 ### Teaching Assistantships
 
 * University of Edinburgh
-  * MATH11199 -- Python Programming (Sep. 2025 – Dec. 2025)
-  * MATH08066 -- Probability (Sep. 2025 – Dec. 2025)
+  * MATH08065 – Computing and Numerics (Jan. 2026 – May 2026)
+  * MATH10096 – Applied Statistics (Jan 2026 – May 2026)
+  * MATH11199 – Python Programming (Sep. 2025 – Dec. 2025)
+  * MATH08066 – Probability (Sep. 2025 – Dec. 2025)
   * MATH10064 – Multivariate Data Analysis (Jan. 2025 – May. 2025)
   * MATH10093 – Statistical Computing (Jan. 2025 – May. 2025)
   * MATH10096 – Applied Statistics (Jan. 2025 – May. 2025)
@@ -50,8 +52,8 @@ Available [here](../files/CV_LDM.pdf).
     * Providing help to undergraduate students in Statistics and Probability. Theoretical and programming guidance for courses in the range MATH 2XX - 5XX.
   * Undergraduate Project Guidance
     * Guidance of three students towards the completion of an undergraduate project in extreme value theory.
-      * MATH 470 (Jan. 2022 – May 2022)
-      * MATH 410 (Jan. 2021 – May 2021 and Sep. 2021 – Dec. 2021)
+      * MATH 470 – Honours Research Project (Jan. 2022 – May 2022)
+      * MATH 410 – Majors Project (Jan. 2021 – May 2021 and Sep. 2021 – Dec. 2021)
 
 
 <!-- Skills
