@@ -31,18 +31,15 @@ Available [here](../files/CV_LDM.pdf).
 ### Teaching Assistantships
 
 * University of Edinburgh
-  * MATH08065 – Computing and Numerics (Jan. 2026 – May 2026)
-  * MATH10096 – Applied Statistics (Jan 2026 – May 2026)
-  * MATH11199 – Python Programming (Sep. 2025 – Dec. 2025)
-  * MATH08066 – Probability (Sep. 2025 – Dec. 2025)
-  * MATH10064 – Multivariate Data Analysis (Jan. 2025 – May. 2025)
-  * MATH10093 – Statistical Computing (Jan. 2025 – May. 2025)
-  * MATH10096 – Applied Statistics (Jan. 2025 – May. 2025)
-  * MATH11176 – Extended Statistical Programming (Sep. 2023 – Dec. 2023)
-  * MATH11187 – Generalised Regression Models (Sep. 2023 – Dec. 2023)
-  * MATH08066 – Probability (Sep. 2023 – Dec. 2023)
-  * MATH10093 – Statistical Computing (Jan. 2023 – May 2023)
-  * MATH08051 – Statistics (Jan. 2023 – May 2023)
+  * MATH10093 – Statistical Computing (Jan. – May 2023, Jan. – May. 2025, and Jan. – May. 2025)
+  * MATH08065 – Computing and Numerics (Jan. – May 2026)
+  * MATH10096 – Applied Statistics (Jan. – May. 2025 and Jan. – May 2026)
+  * MATH11199 – Python Programming (Sep. – Dec. 2025)
+  * MATH08066 – Probability (Sep. – Dec. 2023 and Sep. – Dec. 2025)
+  * MATH10064 – Multivariate Data Analysis (Jan. – May. 2025)
+  * MATH11176 – Extended Statistical Programming (Sep. – Dec. 2023)
+  * MATH11187 – Generalised Regression Models (Sep. – Dec. 2023)
+  * MATH08051 – Statistics (Jan. – May 2023)
 
 * McGill University
   * MATH 324 – Statistics (Jan. 2022 – May 2022)
