@@ -14,11 +14,13 @@ Available [here](../files/CV_LDM.pdf).
 # Short CV
 
 ## Education
-* PhD in Statistics, School of Mathematics, The University of Edinburgh (expected 2026)
+* PhD in Statistics, School of Mathematics, The University of Edinburgh (September 2022 - June 2026)
+  * Thesis: *Geometric considerations for generative modelling of multivariate extremes*
   * Supervisors: Ioannis Papastathopoulos, Gabriele C. Hegerl
-* Visiting PhD student, King Abdullah University of Science and Technology (KAUST) (February 2023, February-June 2024, November 2024) 
-  * Supervisor: Raphaël Huser
+  * Visiting PhD student, King Abdullah University of Science and Technology (KAUST) (February 2023, February-June 2024, November 2024) 
+    * Supervisor: Raphaël Huser
 * MSc in Mathematics and Statistics, McGill University (2020-2022)
+  * Thesis: *A spatial Gamma-Gamma model for the statistical postprocessing of ensemble weather forecasts*
   * Supervisor: Christian Genest
 * BSc in Mathematics and Computer Science, McGill University (2017-2020)
 
