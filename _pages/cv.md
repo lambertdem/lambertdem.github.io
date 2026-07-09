@@ -33,7 +33,7 @@ Available [here](../files/CV_LDM.pdf).
 ### Teaching Assistantships
 
 * University of Edinburgh
-  * MATH10093 – Statistical Computing (Jan. – May 2023, Jan. – May. 2025, and Jan. – May. 2025)
+  * MATH10093 – Statistical Computing (Jan. – May 2023, Jan. – May. 2025, and Jan. – May. 2026)
   * MATH08065 – Computing and Numerics (Jan. – May 2026)
   * MATH10096 – Applied Statistics (Jan. – May. 2025 and Jan. – May 2026)
   * MATH11199 – Python Programming (Sep. – Dec. 2025)
