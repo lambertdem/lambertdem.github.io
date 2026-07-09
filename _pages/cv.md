@@ -32,14 +32,14 @@ Available [here](../files/CV_LDM.pdf).
 
 ### Teaching Assistantships
 
-* University of Edinburgh
+* University of Edinburgh (Sep. 2022 – May 2026)
   * Courses: Statistical Computing, Computing and Numerics, Applied Statistics,
   Python Programming, Probability, Multivariate Data Analysis, Extended Statistical Programming,
   Generalised Regression Models, Statistics
   * StatsBase Statistics Helpdesk
-    * Providing help to MSc students in Statistics for the Statistical Methodology and Theory of Statistical Inference courses.\
+    * Providing help to MSc students in Statistics for the Statistical Methodology and Theory of Statistical Inference courses.
 
-* McGill University
+* McGill University (Jan. 2021 – May 2022)
   * Courses: Statistics, Probability, Principles of Statistics
   * Statistics Helpdesk
     * Providing help to undergraduate students in Statistics and Probability. Theoretical and programming guidance for courses in the range MATH 2XX - 5XX.
@@ -48,7 +48,7 @@ Available [here](../files/CV_LDM.pdf).
       * Honours Research Project, Majors Project
 
 ## Leadership
-* Postgraduate representative, School of Mathematics (University of Edinburgh)
+* Postgraduate representative, School of Mathematics, University of Edinburgh (Sept. 2024 - Oct. 2025)
   * Representative of the postgraduate students of the *School of Mathematics*
   * Intermediary between the students and the School administration.
   * Organisation of social events within the School.
@@ -64,6 +64,10 @@ Available [here](../files/CV_LDM.pdf).
   * MATH11176 – Extended Statistical Programming (Sep. – Dec. 2023)
   * MATH11187 – Generalised Regression Models (Sep. – Dec. 2023)
   * MATH08051 – Statistics (Jan. – May 2023) -->
+
+<!-- * MATH 324 – Statistics (Jan. 2022 – May 2022)
+  * MATH 323 – Probability (Sep. 2021 – Dec. 2021)
+  * MATH 203 – Principles of Statistics (Jan. 2021 – May 2021) -->
 
 <!-- * MATH 470 – Honours Research Project (Jan. 2022 – May 2022)
   * MATH 410 – Majors Project (Jan. 2021 – May 2021 and Sep. 2021 – Dec. 2021) -->
