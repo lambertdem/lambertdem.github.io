@@ -33,7 +33,10 @@ Available [here](../files/CV_LDM.pdf).
 ### Teaching Assistantships
 
 * University of Edinburgh
-  * MATH10093 – Statistical Computing (Jan. – May 2023, Jan. – May. 2025, and Jan. – May. 2026)
+  * Courses: Statistical Computing, Computing and Numerics, Applied Statistics,
+  Python Programming, Probability, Multivariate Data Analysis, Extended Statistical Programming,
+  Generalised Regression Models, Statistics
+  <!-- * MATH10093 – Statistical Computing (Jan. – May 2023, Jan. – May. 2025, and Jan. – May. 2026)
   * MATH08065 – Computing and Numerics (Jan. – May 2026)
   * MATH10096 – Applied Statistics (Jan. – May. 2025 and Jan. – May 2026)
   * MATH11199 – Python Programming (Sep. – Dec. 2025)
@@ -41,18 +44,26 @@ Available [here](../files/CV_LDM.pdf).
   * MATH10064 – Multivariate Data Analysis (Jan. – May. 2025)
   * MATH11176 – Extended Statistical Programming (Sep. – Dec. 2023)
   * MATH11187 – Generalised Regression Models (Sep. – Dec. 2023)
-  * MATH08051 – Statistics (Jan. – May 2023)
+  * MATH08051 – Statistics (Jan. – May 2023) -->
+  * StatsBase Statistics Helpdesk
+    * Providing help to MSc students in Statistics for the Statistical Methodology and Theory of Statistical Inference courses.\
 
 * McGill University
-  * MATH 324 – Statistics (Jan. 2022 – May 2022)
-  * MATH 323 – Probability (Sep. 2021 – Dec. 2021)
-  * MATH 203 – Principles of Statistics (Jan. 2021 – May 2021)
+  * Courses: Statistics, Probability, Principles of Statistics
   * Statistics Helpdesk
     * Providing help to undergraduate students in Statistics and Probability. Theoretical and programming guidance for courses in the range MATH 2XX - 5XX.
   * Undergraduate Project Guidance
     * Guidance of three students towards the completion of an undergraduate project in extreme value theory.
-      * MATH 470 – Honours Research Project (Jan. 2022 – May 2022)
-      * MATH 410 – Majors Project (Jan. 2021 – May 2021 and Sep. 2021 – Dec. 2021)
+      * Honours Research Project, Majors Project
+      <!-- * MATH 470 – Honours Research Project (Jan. 2022 – May 2022)
+      * MATH 410 – Majors Project (Jan. 2021 – May 2021 and Sep. 2021 – Dec. 2021) -->
+
+## Leadership
+* Postgraduate representative, School of Mathematics (University of Edinburgh)
+  * Representative of the postgraduate students of the *School of Mathematics*
+  * Intermediary between the students and the School administration.
+  * Organisation of social events within the School.
+  * Representing the *School of Mathematics* at the *Martingale PhD Navigator Programme* events for future scholars.
 
 
 <!-- Skills
