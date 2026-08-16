@@ -14,7 +14,8 @@ the supervision of Dr Ioannis Papastathopoulos and
 of Prof. Gabriele C. Hegerl. 
 
 Before my Scottish adventures, I completed undergraduate studies in mathematics and computer science (2020) and master studies in 
-mathematics and statistics (2022) at McGill University under the supervision of Prof. Christian Genest. 
+mathematics and statistics (2022) under the supervision of Prof. Christian Genest, both at McGill University 
+in Montréal, Canada. 
 
 
 
