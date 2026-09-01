@@ -148,7 +148,7 @@ redirect_from:
 
 <figure>
   <a href="https://www.google.com/maps/place/New+College,+The+University+of+Edinburgh/@55.9494777,-3.1999639,17z/data=!4m10!1m2!2m1!1sschool+of+divinity+edinburgh!3m6!1s0x4887c79a87ac6c97:0x9c794c45203bfa5d!8m2!3d55.949477!4d-3.1951991!15sChxzY2hvb2wgb2YgZGl2aW5pdHkgZWRpbmJ1cmdoWh4iHHNjaG9vbCBvZiBkaXZpbml0eSBlZGluYnVyZ2iSARV1bml2ZXJzaXR5X2RlcGFydG1lbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjFhVm1KSFNrWmlNbU41VVZSamQxRnJhRlJpYmtaWVpERkNlVTFWUlJBQuABAPoBBAgAEEE!16zL20vMDVsdm03?entry=ttu&g_ep=EgoyMDI2MDgzMC4wIKXMDSoASAFQAw%3D%3D">
-    <img src="/images/thumbs/img9.jpeg" alt="New College, University of Edinburgh">
+    <img src="/images/thumbs/img9.jpg" alt="New College, University of Edinburgh">
   </a>
   <a href="/images/img9.jpeg" class="image-popup zoom" title="New College, University of Edinburgh" aria-label="Enlarge photo of New College, University of Edinburgh">&#10530;</a>
 </figure>
