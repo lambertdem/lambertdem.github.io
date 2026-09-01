@@ -47,7 +47,112 @@ redirect_from:
 
 ## Some of the places mathematics took me:
 
+<style>
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1em;
+  margin: 1.5em 0;
+}
+.photo-grid figure { margin: 0; position: relative; }
+.photo-grid img {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  display: block;
+  border-radius: 3px;
+}
+.photo-grid .zoom {
+  position: absolute;
+  top: 0; right: 0;
+  width: 44px; height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 1rem;
+  line-height: 1;
+  text-decoration: none;
+  background: rgba(0,0,0,.45);
+  border-radius: 0 3px 0 3px;
+  -webkit-tap-highlight-color: rgba(255,255,255,.3);
+}
+.photo-grid .zoom:hover,
+.photo-grid .zoom:focus { background: rgba(0,0,0,.75); color: #fff; }
+
+/* Only hide-until-hover where a real pointer exists; always visible on touch. */
+@media (hover: hover) and (pointer: fine) {
+  .photo-grid .zoom { opacity: 0; transition: opacity .15s; }
+  .photo-grid figure:hover .zoom,
+  .photo-grid .zoom:focus { opacity: 1; }
+}
+</style>
+
+<div class="photo-grid">
+
+<figure>
+  <a href="https://www.google.com/maps/place/Cala+della+Disa/@38.0993426,12.7778729,14z/data=!3m1!4b1!4m6!3m5!1s0x1319780c93f2a2e7:0xcd3792368a953680!8m2!3d38.0993449!4d12.7984725!16s%2Fg%2F11bwn4fkjv?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D">
+    <img src="/images/thumbs/img1.jpg" alt="Cala della Disa, Sicily">
+  </a>
+  <a href="/images/img1.jpg" class="image-popup zoom" title="Cala della Disa, Sicily" aria-label="Enlarge photo of Cala della Disa">&#10530;</a>
+</figure>
+
+<figure>
+  <a href="https://www.google.com/maps/place/The+Quiraing/@57.64131,-6.3158913,12.2z/data=!4m14!1m7!3m6!1s0x488dcf0db7ac6bdb:0x81b757292026e587!2sQuiraing!8m2!3d57.643611!4d-6.265278!16zL20vMGd3Y2s3!3m5!1s0x488dcf26b2a5dd71:0xb94f79a2919c1f3b!8m2!3d57.6409191!4d-6.273846!16s%2Fg%2F11b6ghr_7p?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D">
+    <img src="/images/thumbs/img2.jpg" alt="The Quiraing, Isle of Skye">
+  </a>
+  <a href="/images/img2.jpg" class="image-popup zoom" title="The Quiraing, Isle of Skye" aria-label="Enlarge photo of The Quiraing">&#10530;</a>
+</figure>
+
+<figure>
+  <a href="https://www.google.com/maps/place/23829+Varenna+Lecco,+Italie/@46.0106548,9.2759206,16z/data=!3m1!4b1!4m14!1m7!3m6!1s0x1319780c93f2a2e7:0xcd3792368a953680!2sCala+della+Disa!8m2!3d38.0993449!4d12.7984725!16s%2Fg%2F11bwn4fkjv!3m5!1s0x478417c425d15a0b:0xb3301b324d8b8259!8m2!3d46.0099989!4d9.2838167!16s%2Fg%2F119vp47ql?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D">
+    <img src="/images/thumbs/img3.jpg" alt="Varenna, Lake Como">
+  </a>
+  <a href="/images/img3.jpg" class="image-popup zoom" title="Varenna, Lake Como" aria-label="Enlarge photo of Varenna">&#10530;</a>
+</figure>
+
+<figure>
+  <a href="https://www.google.com/maps/place/King+Abdullah+Mosque/@22.3112516,39.1001051,17z/data=!4m14!1m7!3m6!1s0x15c11c505768a2f1:0x36139c007214e6bc!2sUniversit%C3%A9+des+sciences+et+technologies+du+roi+Abdallah!8m2!3d22.309465!4d39.104697!16s%2Fm%2F02rlxnj!3m5!1s0x15c11c4e5ea78027:0x7994e69e7ed46b83!8m2!3d22.3123775!4d39.1000279!16s%2Fg%2F11c581vsy2?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D">
+    <img src="/images/thumbs/img4.jpg" alt="King Abdullah Mosque, KAUST">
+  </a>
+  <a href="/images/img4.jpg" class="image-popup zoom" title="King Abdullah Mosque, KAUST" aria-label="Enlarge photo of King Abdullah Mosque">&#10530;</a>
+</figure>
+
+<figure>
+  <a href="https://www.google.com/maps/place/Schankwirtschaft+Laidak/@52.479696,13.4259118,17z/data=!4m14!1m7!3m6!1s0x47a84fbc638bba19:0x1f39331c846d4dfb!2sSchankwirtschaft+Laidak!8m2!3d52.4796928!4d13.4284867!16s%2Fg%2F11b5w081n_!3m5!1s0x47a84fbc638bba19:0x1f39331c846d4dfb!8m2!3d52.4796928!4d13.4284867!16s%2Fg%2F11b5w081n_?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D">
+    <img src="/images/thumbs/img8.jpg" alt="Schankwirtschaft Laidak, Berlin">
+  </a>
+  <a href="/images/img8.jpg" class="image-popup zoom" title="Schankwirtschaft Laidak, Berlin" aria-label="Enlarge photo of Schankwirtschaft Laidak">&#10530;</a>
+</figure>
+
+<figure>
+  <a href="https://www.google.com/maps/place/Edge+of+the+World/@24.9486063,45.9884121,17z/data=!3m1!4b1!4m6!3m5!1s0x3e2945bea8241925:0xfdd492646fb62835!8m2!3d24.9486063!4d45.9884121!16s%2Fg%2F11trhkvpnt?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D">
+    <img src="/images/thumbs/img6.jpg" alt="Edge of the World, Saudi Arabia">
+  </a>
+  <a href="/images/img6.jpg" class="image-popup zoom" title="Edge of the World, Saudi Arabia" aria-label="Enlarge photo of the Edge of the World">&#10530;</a>
+</figure>
+
+<figure>
+  <a href="https://www.google.com/maps?vet=10CAAQoqAOahcKEwig6b2b0YWWAxUAAAAAHQAAAAAQFA..i&pvq=OhYweDA6MHg4MDhkZDFlZjEyMjFhMjdm&fvr=1&cs=1&um=1&ie=UTF-8&fb=1&gl=ca&sa=X&ftid=0xd71fcb7977fb93b:0x808dd1ef1221a27f">
+    <img src="/images/thumbs/img7.jpg" alt="TODO: place name">
+  </a>
+  <a href="/images/img7.jpg" class="image-popup zoom" title="TODO: place name" aria-label="Enlarge photo">&#10530;</a>
+</figure>
+
+<figure>
+  <a href="https://www.google.com/maps/place/Ponte+Vecchio/@43.7693018,11.2509266,16.53z/data=!4m15!1m8!3m7!1s0x132a56a680d2d6ad:0x93d57917efc72a03!2sFlorence,+Metropolitan+City+of+Florence,+Italy!3b1!8m2!3d43.7699685!4d11.2576706!16zL20vMDMxeTI!3m5!1s0x132a56aaa2dcb667:0x40310ae830e702e8!8m2!3d43.767925!4d11.2531435!16zL20vMDY4d3A?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D">
+    <img src="/images/thumbs/img5.jpg" alt="Ponte Vecchio, Florence">
+  </a>
+  <a href="/images/img5.JPG" class="image-popup zoom" title="Ponte Vecchio, Florence" aria-label="Enlarge photo of the Ponte Vecchio">&#10530;</a>
+</figure>
+
+</div>
+
+{% comment %}
+Previous version of the photo grid, kept for reference.
+Replaced by the CSS grid above, which adds the Magnific Popup lightbox
+(the .image-popup badges) and serves downsized thumbnails.
 |[![](/images/img1.jpg)](https://www.google.com/maps/place/Cala+della+Disa/@38.0993426,12.7778729,14z/data=!3m1!4b1!4m6!3m5!1s0x1319780c93f2a2e7:0xcd3792368a953680!8m2!3d38.0993449!4d12.7984725!16s%2Fg%2F11bwn4fkjv?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D) | [![](/images/img2.jpg)](https://www.google.com/maps/place/The+Quiraing/@57.64131,-6.3158913,12.2z/data=!4m14!1m7!3m6!1s0x488dcf0db7ac6bdb:0x81b757292026e587!2sQuiraing!8m2!3d57.643611!4d-6.265278!16zL20vMGd3Y2s3!3m5!1s0x488dcf26b2a5dd71:0xb94f79a2919c1f3b!8m2!3d57.6409191!4d-6.273846!16s%2Fg%2F11b6ghr_7p?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D) |
 |[![](/images/img3.jpg)](https://www.google.com/maps/place/23829+Varenna+Lecco,+Italie/@46.0106548,9.2759206,16z/data=!3m1!4b1!4m14!1m7!3m6!1s0x1319780c93f2a2e7:0xcd3792368a953680!2sCala+della+Disa!8m2!3d38.0993449!4d12.7984725!16s%2Fg%2F11bwn4fkjv!3m5!1s0x478417c425d15a0b:0xb3301b324d8b8259!8m2!3d46.0099989!4d9.2838167!16s%2Fg%2F119vp47ql?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D) | [![](/images/img4.jpg)](https://www.google.com/maps/place/King+Abdullah+Mosque/@22.3112516,39.1001051,17z/data=!4m14!1m7!3m6!1s0x15c11c505768a2f1:0x36139c007214e6bc!2sUniversit%C3%A9+des+sciences+et+technologies+du+roi+Abdallah!8m2!3d22.309465!4d39.104697!16s%2Fm%2F02rlxnj!3m5!1s0x15c11c4e5ea78027:0x7994e69e7ed46b83!8m2!3d22.3123775!4d39.1000279!16s%2Fg%2F11c581vsy2?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D) |
 |[![](/images/img8.HEIC)](https://www.google.com/maps/place/Schankwirtschaft+Laidak/@52.479696,13.4259118,17z/data=!4m14!1m7!3m6!1s0x47a84fbc638bba19:0x1f39331c846d4dfb!2sSchankwirtschaft+Laidak!8m2!3d52.4796928!4d13.4284867!16s%2Fg%2F11b5w081n_!3m5!1s0x47a84fbc638bba19:0x1f39331c846d4dfb!8m2!3d52.4796928!4d13.4284867!16s%2Fg%2F11b5w081n_?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D) | [![](/images/img6.HEIC)](https://www.google.com/maps/place/Edge+of+the+World/@24.9486063,45.9884121,17z/data=!3m1!4b1!4m6!3m5!1s0x3e2945bea8241925:0xfdd492646fb62835!8m2!3d24.9486063!4d45.9884121!16s%2Fg%2F11trhkvpnt?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D) |
-|[![](/images/img7.HEIC)](https://www.google.com/maps?vet=10CAAQoqAOahcKEwig6b2b0YWWAxUAAAAAHQAAAAAQFA..i&pvq=OhYweDA6MHg4MDhkZDFlZjEyMjFhMjdm&fvr=1&cs=1&um=1&ie=UTF-8&fb=1&gl=ca&sa=X&ftid=0xd71fcb7977fb93b:0x808dd1ef1221a27f) | [![](/images/img5.JPG)](https://www.google.com/maps/place/Ponte+Vecchio/@43.7693018,11.2509266,16.53z/data=!4m15!1m8!3m7!1s0x132a56a680d2d6ad:0x93d57917efc72a03!2sFlorence,+Metropolitan+City+of+Florence,+Italy!3b1!8m2!3d43.7699685!4d11.2576706!16zL20vMDMxeTI!3m5!1s0x132a56aaa2dcb667:0x40310ae830e702e8!8m2!3d43.767925!4d11.2531435!16zL20vMDY4d3A?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D) |
+|[![](/images/img7.HEIC)](https://www.google.com/maps?vet=10CAAQoqAOahcKEwig6b2b0YWWAxUAAAAAHQAAAAAQFA..i&pvq=OhYweDA6MHg4MDhkZDFlZjEyMjFhMjdm&fvr=1&cs=1&um=1&ie=UTF-8&fb=1&gl=ca&sa=X&ftid=0xd71fcb7977fb93b:0x808dd1ef1221a27f) | [![](/images/img5.JPG)](https://www.google.com/maps/place/Ponte+Vecchio/@43.7693018,11.2509266,16.53z/data=!4m15!1m8!3m7!1s0x132a56a680d2d6ad:0x93d57917efc72a03!2sFlorence,+Metropolitan+City+of+Florence,+Italy!3b1!8m2!3d43.7699685!4d11.2576706!16zL20vMDMxeTI!3m5!1s0x132a56aaa2dcb667:0x40310ae830e702e8!8m2!3d43.767925!4d11.2531435!16zL20vMDY4d3A?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D) |{% endcomment %}
