@@ -22,12 +22,12 @@ redirect_from:
 ### French fiction
 
 * [*La plus secrète mémoire des hommes*](https://fr.wikipedia.org/wiki/La_Plus_Secr%C3%A8te_M%C3%A9moire_des_hommes), Mohamed Mbougar Sarr
-* [*Charlotte*](https://fr.wikipedia.org/wiki/Charlotte_(roman)), David Foenkinos
 * [*Léon l'Africain*](https://fr.wikipedia.org/wiki/L%C3%A9on_l%27Africain_(roman)), Amin Maalouf
-* [*Au revoir là-haut*](https://fr.wikipedia.org/wiki/Au_revoir_l%C3%A0-haut), Pierre Lemaitre
 * [*Houris*](https://fr.wikipedia.org/wiki/Houris_(roman)), Kamel Daoud
 * [*Putain*](https://fr.wikipedia.org/wiki/Putain_(r%C3%A9cit)) and [*Folle*](https://www.nellyarcan.com/pages/folle.php),	Nelly Arcan
+* [*Charlotte*](https://fr.wikipedia.org/wiki/Charlotte_(roman)), David Foenkinos
 * [*L'énigme du retour*](https://fr.wikipedia.org/wiki/L%27%C3%89nigme_du_retour), Dany Laferrière
+* [*Au revoir là-haut*](https://fr.wikipedia.org/wiki/Au_revoir_l%C3%A0-haut), Pierre Lemaitre
 
 ### English fiction
 
