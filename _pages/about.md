@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am currently a Remote Consultant (and incoming Postdoctoral Research Fellow) at KAUST 
-in the Extreme Statistics (XSTAT) research group led by Prof. Raphaël Huser.
+in the Extreme Statistics ([XSTAT](https://xstat.kaust.edu.sa/)) research group led by Prof. Raphaël Huser.
 
 In August 2026, I obtained my PhD degree from the [School of Mathematics](https://maths.ed.ac.uk/) at The University of Edinburgh, where 
 I studied extreme value theory&mdash;in particular the statistics of extreme or rare events&mdash;under 
