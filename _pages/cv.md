@@ -14,7 +14,7 @@ Available [here](../files/CV_LDM.pdf).
 # Short CV
 
 ## Current position
-* Remote Consultant (and Incoming Postdoctoral Researcher) at KAUST (August 2026 - Present)
+* Remote Consultant (and incoming Postdoctoral Research Fellow) at KAUST (August 2026 - Present)
 
 ## Education
 * PhD in Statistics, School of Mathematics, The University of Edinburgh (September 2022 - June 2026)
