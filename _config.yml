@@ -18,20 +18,22 @@ author:
 # Publication groups, shown on the home page in this order.
 # Each publication's `category` must match one of these keys.
 publication_category:
-  books:
-    title: "Books"
   preprints:
     title: "Preprints"
   manuscripts:
     title: "Journal articles"
+  chapters:
+    title: "Book chapters"
   conferences:
     title: "Conference papers"
+  books:
+    title: "Books"
   vulgarisation:
     title: "Science communication"
   other:
     title: "Other writing"
   thesis:
-    title: "Thesis"
+    title: "Theses"
 
 collections:
   publications:
