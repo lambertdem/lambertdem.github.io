@@ -1,7 +1,7 @@
 ---
 title: "Review of “Risk Revealed: Cautionary Tales, Understanding and Communication” by Paul Embrechts, Marius Hofert, and Valérie Chavez-Demoulin"
 collection: publications
-category: other
+category: vulgarisation
 permalink: /publication/RiskRevealed
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-10-01
