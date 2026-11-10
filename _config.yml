@@ -1,7 +1,7 @@
 # Site settings. Restart `jekyll serve` after editing this file.
 
 title       : "Lambert De Monte"
-description : "Statistician working on extreme value theory and the modelling of rare multivariate events."
+description : ""
 url         : "https://lambertdem.github.io"
 baseurl     : ""
 locale      : "en_GB"
@@ -10,7 +10,7 @@ lang        : "en"
 author:
   name          : "Lambert De Monte"
   avatar        : "LDM.jpg"
-  email         : "l.demonte@ed.ac.uk"
+  email         : "lambert.demonte@kaust.edu.sa"
   googlescholar : "https://scholar.google.com/citations?user=HMIbGeoAAAAJ&hl=fr"
   github        : "lambertdem"
   cv            : "/files/CV_LDM.pdf"

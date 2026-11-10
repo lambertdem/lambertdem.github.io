@@ -3,13 +3,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% comment %} Changes on every build so browsers fetch fresh CSS/JS after an update. {% endcomment %}
+  {% capture v %}{{ site.time | date: '%s' }}{% endcapture %}
   <script>try { if (localStorage.getItem('theme') === 'dark') document.documentElement.dataset.theme = 'dark'; } catch (e) {}</script>
   {% seo %}
   <meta name="theme-color" content="#262626">
   <link rel="icon" type="image/svg+xml" href="{{ '/images/favicon.svg' | relative_url }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon-32x32.png' | relative_url }}">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon-180x180.png' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v={{ v }}">
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
@@ -20,7 +22,7 @@
     </main>
     {% include footer.html %}
   </div>
-  <script src="{{ '/assets/js/theme.js' | relative_url }}" defer></script>
-  {% if page.lightbox %}<script src="{{ '/assets/js/lightbox.js' | relative_url }}" defer></script>{% endif %}
+  <script src="{{ '/assets/js/theme.js' | relative_url }}?v={{ v }}" defer></script>
+  {% if page.lightbox %}<script src="{{ '/assets/js/lightbox.js' | relative_url }}?v={{ v }}" defer></script>{% endif %}
 </body>
 </html>
