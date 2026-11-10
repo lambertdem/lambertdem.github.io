@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<header class="page-head">
+  <p class="eyebrow">{{ site.publication_category[page.category].title | default: 'Publication' }}</p>
+  <h1 class="h1--small">{{ page.title }}</h1>
+  {% if page.authors %}<p class="deck">{{ page.authors }}</p>{% endif %}
+  <p class="pub-meta">{% if page.venue %}{{ page.venue }} · {% endif %}{{ page.date | date: '%Y' }}</p>
+</header>
+<div class="prose">
+  {{ content }}
+  <ul class="link-row">
+    {% if page.paperurl %}<li><a href="{{ page.paperurl }}">Read the paper</a></li>{% endif %}
+    {% if page.bibtexurl %}<li><a href="{{ page.bibtexurl }}">BibTeX</a></li>{% endif %}
+    <li><a href="{{ '/#publications' | relative_url }}">All publications</a></li>
+  </ul>
+</div>

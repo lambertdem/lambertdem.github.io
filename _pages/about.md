@@ -1,7 +1,9 @@
 ---
 permalink: /
+layout: home
 title: "Lambert De Monte"
-author_profile: true
+eyebrow: "Extreme Statistics (XSTAT) · KAUST"
+role: "Remote Consultant (and incoming Postdoctoral Research Fellow)"
 redirect_from: 
   - /about/
   - /about.html
@@ -18,10 +20,4 @@ of Prof. Gabriele C. Hegerl.
 
 Before my Scottish adventures, I completed undergraduate studies in mathematics and computer science (2020) and master studies in 
 mathematics and statistics (2022) under the supervision of Prof. Christian Genest, both at McGill University 
-in Montréal, Canada. 
-
-
-
-
-
-
+in Montréal, Canada.

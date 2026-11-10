@@ -1,17 +1,12 @@
 ---
-layout: archive
-title: "Full CV"
+title: "CV"
+deck: "A short version is below."
 permalink: /cv/
-author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Available [here](../files/CV_LDM.pdf).
-
-# Short CV
+<div class="callout"><p>The full CV is available as a <a href="{{ '/files/CV_LDM.pdf' | relative_url }}"><strong>PDF</strong></a>.</p></div>
 
 ## Current position
 * Remote Consultant (and incoming Postdoctoral Research Fellow) at KAUST (August 2026 - Present)
@@ -75,7 +70,8 @@ Available [here](../files/CV_LDM.pdf).
 <!-- * MATH 470 – Honours Research Project (Jan. 2022 – May 2022)
   * MATH 410 – Majors Project (Jan. 2021 – May 2021 and Sep. 2021 – Dec. 2021) -->
 
-<!-- Skills
+{% comment %}
+Skills
 ======
 * Skill 1
 * Skill 2
@@ -104,4 +100,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams
+{% endcomment %}

@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<section class="intro">
+  <div class="intro-text">
+    {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+    <h1>{{ page.title | default: site.title }}</h1>
+    {% if page.role %}<p class="role">{{ page.role }}</p>{% endif %}
+    <div class="lede">
+      {{ content }}
+    </div>
+  </div>
+  <aside class="profile-card" aria-label="Profile links">
+    {% if site.author.avatar %}
+      <img class="portrait" src="{{ '/images/' | append: site.author.avatar | relative_url }}" alt="Portrait of {{ site.author.name }}" width="220" height="220">
+    {% endif %}
+    {% include profile-links.html %}
+  </aside>
+</section>
+
+<section class="section" aria-labelledby="publications">
+  <h2 id="publications">Publications</h2>
+  {% assign pubs = site.publications | sort: 'date' | reverse %}
+  {% for category in site.publication_category %}
+    {% assign group = pubs | where: 'category', category[0] %}
+    {% if group.size > 0 %}
+      <h3>{{ category[1].title }}</h3>
+      <ul class="pub-list">
+        {% for pub in group %}{% include publication-entry.html pub=pub %}{% endfor %}
+      </ul>
+    {% endif %}
+  {% endfor %}
+</section>
