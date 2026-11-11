@@ -9,5 +9,6 @@ venue: 'arXiv'
 authors: 'Ioannis Papastathopoulos, Lambert De Monte, Ryan Campbell, Håvard Rue'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2310.06130'
+softwareurl: '/software/#geometricextremes'
 # citation: 'Ioannis Papastathopoulos, Lambert De Monte, Ryan Campbell, Haavard Rue'
 ---

@@ -9,5 +9,6 @@ venue: 'arXiv'
 authors: 'Lambert De Monte, Raphaël Huser, Ioannis Papastathopoulos, Jordan Richards'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2505.02957'
+softwareurl: '/software/#geometricextremesnf'
 # citation: 'Lambert De Monte, Raphaël Huser, Ioannis Papastathopoulos, Jordan Richards'
 ---

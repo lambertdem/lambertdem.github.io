@@ -5,7 +5,7 @@ redirect_from:
   - /software.html
 ---
 
-## [geometricExtremesNF](https://github.com/lambertdem/geometricExtremesNF) Python code
+## [geometricExtremesNF](https://github.com/lambertdem/geometricExtremesNF) Python code {#geometricextremesnf}
 
 A generative modelling approach for multivariate extremes based on:
 
@@ -13,7 +13,7 @@ De Monte, L., Huser, R., Papastathopoulos, I., and Richards, J. (2025) 'Generati
 
 <p align="center"><img src="/images/T_S_to_C.png" width="80%" /> </p>
 
-## [geometricExtremes](https://github.com/ipapasta/geometricExtremes) R package
+## [geometricExtremes](https://github.com/ipapasta/geometricExtremes) R package {#geometricextremes}
 
 A Bayesian approach to extreme value analysis based on:
 
@@ -21,7 +21,7 @@ Papastathopoulos, I., De Monte, L., Campbell, R. and Rue, H. (2023) 'Statistical
 
 <p align="center"><img src="/images/GaussCop_LapMargins.gif" width="70%" height="70%"/> </p>
 
-## [TSExtremes](https://github.com/lambertdem/Ch14_TSExtremes) R code
+## [TSExtremes](https://github.com/lambertdem/Ch14_TSExtremes) R code {#tsextremes}
 
 A conditional extremes approach to model the extremes of stationary time series:
 
