@@ -11,8 +11,8 @@ layout: default
   {{ content }}
   <ul class="link-row">
     {% if page.paperurl %}<li><a href="{{ page.paperurl }}">Read the paper</a></li>{% endif %}
-    {% if page.softwareurl %}<li><a href="{{ page.softwareurl | relative_url }}">Code</a></li>{% endif %}
     {% if page.bibtexurl %}<li><a href="{{ page.bibtexurl }}">BibTeX</a></li>{% endif %}
+    {% if page.softwareurl %}<li><a href="{{ page.softwareurl }}">Code</a></li>{% endif %}
     <li><a href="{{ '/#publications' | relative_url }}">All publications</a></li>
   </ul>
 </div>

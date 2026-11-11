@@ -6,7 +6,7 @@
   {% if pub.authors %}<p class="pub-authors">{{ pub.authors }}</p>{% endif %}
   <p class="pub-meta">
     {% if pub.venue %}<span>{{ pub.venue }}</span> · {% endif %}<span>{{ pub.date | date: '%Y' }}</span>
-    {% if pub.softwareurl %} · <a href="{{ pub.softwareurl | relative_url }}">Software</a>{% endif %}
+    {% if pub.softwareurl %} · <a href="{{ pub.softwareurl | relative_url }}">Code</a>{% endif %}
     {% if pub.bibtexurl %} · <a href="{{ pub.bibtexurl }}">BibTeX</a>{% endif %}
   </p>
 </li>
