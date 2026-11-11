@@ -2,7 +2,7 @@
 permalink: /
 layout: home
 title: "Lambert De Monte"
-eyebrow: "Extreme Statistics (XSTAT) · KAUST"
+eyebrow: "" #Extreme Statistics (XSTAT) · KAUST
 role: "Remote Consultant (and incoming Postdoctoral Research Fellow) at KAUST"
 redirect_from: 
   - /about/
