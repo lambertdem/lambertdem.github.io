@@ -6,7 +6,7 @@
   --muted: #6e6e6e;
   --link: #2e2e2e;
   --underline: #b8b8b8;   /* link underlines; darken to --accent on hover */
-  --bg: #fafafa;
+  --bg: #ffffff;          /* pure white so figures (white backgrounds) blend in */
   --rule: #e2e2e2;
   --rule-strong: #c9c9c9;
   --tint: #f1f1f1;
