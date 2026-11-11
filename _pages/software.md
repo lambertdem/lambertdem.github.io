@@ -30,4 +30,5 @@ A conditional extremes approach to model the extremes of stationary time series:
 G. Auld, L. De Monte, and I. Papastathopoulos. Time series in extremes. In M. de Carvalho, R. Huser,
 P. Naveau, and B. J. Reich, editors, Handbook on Statistics of Extremes. Chapman & Hall, 2026. 
 
-<p align="center"><img src="/images/HSE_CH14_Data.png" width="80%" /> </p>
+<!-- <p align="center"><img src="/images/HSE_CH14_Data.png" width="80%" /> </p> -->
+<p align="center"><img src="/images/TSExtremesTrend.png" width="80%" /> </p>
