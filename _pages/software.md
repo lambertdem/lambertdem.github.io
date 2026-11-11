@@ -20,6 +20,7 @@ A Bayesian approach to extreme value analysis based on:
 
 Papastathopoulos, I., De Monte, L., Campbell, R. and Rue, H. (2023) 'Statistical inference for radial generalized Pareto distributions and return sets in geometric extremes', [arXiv](https://arxiv.org/abs/2310.06130) preprint.
 
+<p align="center"><img src="/images/GeometricExtremesSPDE.png" width="80%" /> </p>
 <p align="center"><img src="/images/GaussCop_LapMargins.gif" width="70%" height="70%"/> </p>
 
 ## [TSExtremes](https://github.com/lambertdem/Ch14_TSExtremes) R code {#tsextremes}
