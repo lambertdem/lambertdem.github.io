@@ -14,7 +14,7 @@ in the Extreme Statistics ([XSTAT](https://xstat.kaust.edu.sa/)) research group 
 
 In August 2026, I obtained my PhD degree from the School of Mathematics at [The University of Edinburgh](https://www.ed.ac.uk/), where 
 I studied extreme value theory&mdash;in particular the statistics of extreme or rare events&mdash;under 
-the supervision of Dr Ioannis Papastathopoulos and 
+the supervision of Dr. Ioannis Papastathopoulos and 
 <!-- aim to apply theory and modelling advances to environmental extremes with my co-supervisor,  -->
 of Prof. Gabriele C. Hegerl. 
 
